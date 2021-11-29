@@ -1,2 +1,2 @@
 # Store-X_Admin_Dashboard
-PHP  Admin dashboard ,HTML,MySQL, CSS and Bootstrap ,JS
+Admin dashboard of Store-X website created with PHP ,HTML,CSS/Bootstrap ,JS and MySQL , for a live demo you can check my youtube channel: https://youtu.be/gYITBu0RKgQ 
